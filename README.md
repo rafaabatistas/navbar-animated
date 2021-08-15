@@ -5,7 +5,7 @@ Esse é um projeto que mostra como fazer uma transição dos itens do menu, uma 
 ## Preview
 
 <div style="width:100%;height:0;padding-bottom:63%;position:relative;">
-  <iframe src="https://giphy.com/embed/YnYK9vHMvVkzy3O0wy" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+  <img src="https://media.giphy.com/media/YnYK9vHMvVkzy3O0wy/giphy.gif" width="100%" height="100%" style="position:absolute">
 </div>
 
-### Ou acesse o projeto [clicando aqui](https://navbaranimated.netlify.app/).
+### Acesse o projeto [clicando aqui](https://navbaranimated.netlify.app/).
