@@ -1,6 +1,6 @@
 # Transição suave dos itens do menu navbar
 
-Esse é um projeto que mostra como fazer uma transição dos itens do menu, uma simples maneira de mover a posição do pseudo elemento da navbar com o javascript manipulando o css.
+Esse é um projeto que mostra como fazer uma transição dos itens do menu, uma simples maneira de mover a posição do pseudo-elemento da navbar com o `javascript` manipulando o `css`.
 
 ## Preview
 
